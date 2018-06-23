@@ -2,7 +2,7 @@
 
  Most Exciting Media Editor App with All Features, Create,Convert,Mix Multimedia.
  
-<img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
+<img alt="Logo" src=""screenshot/" width="80" />
 
 Best app to Convert,edit and mix audio and video files with minimum efforts.
 it only require permission to access your phone media files,no extra permission needed.
@@ -51,7 +51,7 @@ Your feedback is valuable to us, please provide the feedback and suggestion for 
 
 
 
-<a href='https://play.google.com/store/apps/details?id=com.appsvatika.quizapp'><img src='https://github.com/AppsVatika/QuizApp/blob/master/google-play.png' alt='Get it on Google Play' height='45' /></a>
+<a href='https://play.google.com/store/apps/details?id=com.appsvatika.mediamaster'><img src='https://github.com/AppsVatika/QuizApp/blob/master/google-play.png' alt='Get it on Google Play' height='45' /></a>
 
 <div style="display:flex;">
 <img alt="App image" src="screenshot/Screenshot (19 Nov 2017 8_14_05 pm).png" width="30%" >
