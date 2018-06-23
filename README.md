@@ -4,10 +4,6 @@
  
 <img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80" />
 
-Android Client for https://opentdb.com/ API. Having Multiple categories Trivia Questions.
-
-You can explore this Android project to learn.
-
 Best app to Convert,edit and mix audio and video files with minimum efforts.
 it only require permission to access your phone media files,no extra permission needed.
 
