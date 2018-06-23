@@ -2,7 +2,7 @@
 
  Most Exciting Media Editor App with All Features, Create,Convert,Mix Multimedia.
  
-<img alt="Logo" src=""screenshot/512.png" width="80" />
+<img alt="Logo" src="screenshot/512.png" width="80" />
 
 
 <a href='https://play.google.com/store/apps/details?id=com.appsvatika.mediamaster'><img src='https://github.com/AppsVatika/QuizApp/blob/master/google-play.png' alt='Get it on Google Play' height='45' /></a>
